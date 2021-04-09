@@ -1,6 +1,8 @@
 # rpi64-alpine-image
 Alpine Linux bootable image for raspberrypi 3 or 4
 
+Currently Alpine version 3.13.4!
+
 ### Usage:
 
 #### step1
